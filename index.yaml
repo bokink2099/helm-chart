@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  klar-chart:
+  - apiVersion: v2
+    appVersion: 1.1.1
+    created: "2022-10-17T20:45:23.775497+07:00"
+    description: A Helm chart for kubernetes
+    digest: 11b2b1cfb9758d25ad49000e526ded08577448ac93e699eadf2acea6e7f158f1
+    name: klar-chart
+    type: application
+    urls:
+    - https://github.com/bokink2099/helm-chart/klar-chart-1.1.1.tgz
+    version: 1.1.1
+generated: "2022-10-17T20:45:23.7747062+07:00"
